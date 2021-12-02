@@ -1,0 +1,11 @@
+
+#property, #options {
+    display: none;
+}
+
+#first, #second {
+    background-color: rgb(119, 1, 1);
+}
+#third {
+    background-color: rgb(7, 116, 13);
+}
